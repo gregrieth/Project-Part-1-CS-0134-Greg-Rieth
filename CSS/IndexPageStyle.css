@@ -1,0 +1,16 @@
+
+div {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+header {
+  background-color: green;
+  border: 3px solid black;
+  margin: 10px;
+}
+
+main {
+  text-align: center;
+  font-family: sans-serif;
+}
